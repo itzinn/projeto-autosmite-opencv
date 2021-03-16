@@ -1,0 +1,107 @@
+﻿  testetemplatematchingscreenshot.cpp
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(116,63): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(116,47): warning C4244: 'argumento': conversão de 'double' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(139,72): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(163,92): warning C4244: 'argumento': conversão de 'float' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(163,55): warning C4244: 'argumento': conversão de 'float' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(177,89): warning C4244: 'argumento': conversão de '_Tp' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(177,49): warning C4244: 'argumento': conversão de '_Tp' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(177,179): warning C4244: 'argumento': conversão de '_Tp' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(177,139): warning C4244: 'argumento': conversão de '_Tp' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(237,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(238,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(276,127): warning C4244: 'argumento': conversão de '_Tp' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(276,79): warning C4244: 'argumento': conversão de '_Tp' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(277,112): warning C4244: 'argumento': conversão de '_Tp' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(277,89): warning C4244: 'argumento': conversão de '_Tp' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(310,42): warning C4244: '=': conversão de '_Tp' para 'int', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Pablo\source\repos\templatematchingoriginal\templatematchingoriginal\testetemplatematchingscreenshot.cpp(311,42): warning C4244: '=': conversão de '_Tp' para 'int', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+  templatematchingoriginal.vcxproj -> C:\Users\Pablo\source\repos\templatematchingoriginal\x64\Debug\templatematchingoriginal.exe
